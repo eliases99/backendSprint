@@ -1,0 +1,9 @@
+Esto es lo que logre hacer
+- login
+-registro
+-creditos
+-prorroga
+-pagos
+, falta la integrarlo al front
+La cuestion de los roles se me complico pero si alguno de ustedes quiere hacerlo, descarga el repo y lo modifica
+si lo van a correr antes tienen que colocar el npm install para que descargue la carpeta node_modules , ya despues con el comando npm run dev ya deberia correrlo
